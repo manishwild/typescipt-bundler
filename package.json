@@ -1,0 +1,24 @@
+{
+  "name": "typescipt-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishwild/typescipt-bundler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishwild/typescipt-bundler/issues"
+  },
+  "homepage": "https://github.com/manishwild/typescipt-bundler#readme",
+  "dependencies": {
+    "webpack": "5.11.1",
+    "webpack-cli": "4.3.0"
+  }
+}
